@@ -1,3 +1,3 @@
-module AuthorssHelper
+module AuthorsHelper
 
 end
